@@ -17,8 +17,9 @@ public class Music163_crack {
 	public static void main(String[] args) throws IOException, SQLException {
 		//输出路径
 		String out_path = "/Users/remind/Downloads/163music/";
+
 		//歌单ID，只下载这个歌单的文件.留空则转换所有缓存
-		String loveid = "14264582";
+		String loveid = "";
 		
 		Long a = System.currentTimeMillis();
 		//缓存路径
