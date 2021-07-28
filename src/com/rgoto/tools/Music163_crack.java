@@ -16,13 +16,13 @@ public class Music163_crack {
 	
 	public static void main(String[] args) throws IOException, SQLException {
 		//输出路径
-		String out_path = "/Users/remind/Downloads/163music/";
+		String out_path = "/Users/remind/Downloads/";
 
 		//歌单ID，只下载这个歌单的文件.留空则转换所有缓存
 		String loveid = "";
 		
 		Long a = System.currentTimeMillis();
-		//缓存路径
+		//缓存路径，新版可能不一样
 		String path = System.getProperty("user.home") +"/Library/Containers/com.netease.163music/Data/Library/Caches/online_play_cache/";
 		if(!new File(path).exists()) path = System.getProperty("user.home") + "/Library/Containers/com.netease.163music/Data/Caches/online_play_cache/";
 		if(!new File(path).exists()){
