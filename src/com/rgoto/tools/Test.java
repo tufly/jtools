@@ -2,6 +2,6 @@ package com.rgoto.tools;
 
 public class Test {
     public static void main(String[] args) {
-        System.out.println(2);
+       String[] strs = {"abc", "d2", "d3", "d4", "d5", "d7"};
     }
 }
