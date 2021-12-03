@@ -1,3 +1,2 @@
 # jtools
-常用JAVA方法.
-
+Common JAVA methods.
