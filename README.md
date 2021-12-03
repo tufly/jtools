@@ -1,2 +1,3 @@
 # jtools
 Common JAVA methods.
+I specifically cover the following topics: Java primitive data types, declaration statements, expression statements, importing class libraries, excepting user input, checking for valid input, catching errors in input, math functions, if statement, relational operators, logical operators, ternary operator, switch statement, and looping. How class variables differ from local variables, Java Exception handling, the difference between run time and checked exceptions, Arrays, and UML Diagrams. Monsters gameboard, Java collection classes, Java ArrayLists, Linked Lists, manipulating Strings and StringBuilders, Polymorphism, Inheritance, Protected, Final, Instanceof, interfaces, abstract classes, abstract methods. 
